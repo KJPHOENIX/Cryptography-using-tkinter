@@ -1,3 +1,3 @@
-# CRYPTOGRAPHY:
-   using python tkinter
-   encryotion and decryption
+# Cryptography
+     . using python tkinter
+     . encryotion and decryption
