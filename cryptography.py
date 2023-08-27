@@ -8,7 +8,7 @@ import base64
 r = Tk()
 r.title("Cryptography")
 r.config(bg = "lightgreen")
-r.geometry("400x500")
+r.geometry("400x450")
 
 
 Msg = StringVar() 
@@ -103,6 +103,9 @@ b2.place(x = 170, y = 330)
 
 b3 = Button(r,text = "Quit",font = ("optima",10),command = qExit,activebackground = "red",activeforeground = "white",bg = "yellow")
 b3.place(x = 230,y = 330)
+
+banner = Label(r,text = "KJPHOENIX",font = ("optima",12,"bold"),bg = "white")
+banner.place(x=150,y =380)
 
 
 
